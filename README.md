@@ -3,4 +3,6 @@ Repositorio creado para solucionar los problemas implementados en el curso de gi
 
 Commit hecho desde GitHub.
 
-Una actualización mas.
+Una actualización más.
+
+Cambios desde mi rama local llamada developer01.
